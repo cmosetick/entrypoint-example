@@ -4,8 +4,10 @@ entrypoint-example
 Hello World training example, demonstrating Docker `ENTRYPOINT` and `CMD`.
 
 basic usage:  
-`docker pull cmosetick/entrypoint-example`
-`docker run --rm cmosetick/entrypoint-example`
+```
+docker pull cmosetick/entrypoint-example`  
+docker run --rm cmosetick/entrypoint-example
+```
 
 optional building on your own system:  
 ```
