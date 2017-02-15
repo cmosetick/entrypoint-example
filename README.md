@@ -16,6 +16,8 @@ docker build --no-cache -t cmosetick/entrypoint-example .
 ```
 
 Training Lessons:  
-* What are some methods that you can make a container spawned from this image (Dockerfile) display the actual `uptime` of the system.
+* What are some methods that you can make a container spawned from this image (Dockerfile) display the actual `uptime` of the system?
 
 * Describe two methods to run `debug-mode.sh` and what happens when you run it?
+
+* How could you change this `Dockerfile` to make this image more flexible for debug purposes?
